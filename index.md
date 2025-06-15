@@ -15,26 +15,28 @@ Health-focused data scientist with a foundation in pharmaceutical sciences, regu
 ## 🔹 Key Skills
 
 **Regulatory & Clinical Affairs:**
+
  Regulatory Submissions (IND, BLA) | Regulatory Strategy (FDA, MFDS)
  Clinical Trial Documentation | CMC & Post-Approval Documentation
  Communication with Regulatory Authorities | Cross-functional Collaboration | Coordination with CROs
 
 
 **Data Science & Analytics:**
-• EHR and Real-World Data Analysis | Clinical & Safety Data Integration
-• Exploratory Data Analysis | Statistical Modeling | Survival Analysis
-• Machine Learning Applications | Time Series Modeling | Convolutional Neural Networks
-• Deep Learning in Healthcare | Data-Driven Workflow Optimization
+
+EHR and Real-World Data Analysis | Clinical & Safety Data Integration
+Exploratory Data Analysis | Statistical Modeling | Survival Analysis
+Machine Learning Applications | Time Series Modeling | Convolutional Neural Networks
+Deep Learning in Healthcare | Data-Driven Workflow Optimization
 
 **Programming & Tools**
-• Languages & Libraries: Python (pandas, NumPy, scikit-learn, PyTorch, TensorFlow), R, SQL
-• Data Visualization: Seaborn, Matplotlib, ggplot2, Power BI
-• Development Environment: Git/GitHub, Jupyter, VS Code
-• *In Progress: Docker & Cloud Workflow Fundamentals*
+Languages & Libraries: Python (pandas, NumPy, scikit-learn, PyTorch, TensorFlow), R, SQL
+Data Visualization: Seaborn, Matplotlib, ggplot2, Power BI
+Development Environment: Git/GitHub, Jupyter, VS Code
+*In Progress: Docker & Cloud Workflow Fundamentals*
 
 **Communication & Leadership**
-• Cross-functional Teamwork | Stakeholder Communication | Project Coordination
-• Scientific Writing | Regulatory Intelligence | Health Data Interpretation
+Cross-functional Teamwork | Stakeholder Communication | Project Coordination
+Scientific Writing | Regulatory Intelligence | Health Data Interpretation
 
 {% include_relative _includes/education.md %}
 
