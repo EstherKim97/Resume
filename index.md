@@ -16,10 +16,8 @@ Health-focused data scientist with a foundation in pharmaceutical sciences, regu
 
 **Regulatory & Clinical Affairs:**
 
-• Regulatory Submissions (IND, BLA) | Regulatory Strategy (FDA, MFDS) # use • instead of "-" or "*"
-
+• Regulatory Submissions (IND, BLA) | Regulatory Strategy (FDA, MFDS)
 • Clinical Trial Documentation | CMC & Post-Approval Documentation
-
 • Communication with Regulatory Authorities | Cross-functional Collaboration | Coordination with CROs
 
 
