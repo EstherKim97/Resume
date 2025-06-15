@@ -63,9 +63,9 @@ main:
   - type: awards
     title: 2nd Prize, QBI Innovation Hackathon
     institution: UCSF Quantitative Biosciences Institute
-    awarded for: MaxBindAI – Machine Learning-Based Prediction of Maximum Ligand Binding Affinity to Protein Sites
+    #awarded for: MaxBindAI – Machine Learning-Based Prediction of Maximum Ligand Binding Affinity to Protein Sites
     years: 2025
-    notes: Supported by a QBI minigrant; actively collaborating on continued development of the original hackathon project.
+    #notes: Supported by a QBI minigrant; actively collaborating on continued development of the original hackathon project.
 
 
 
