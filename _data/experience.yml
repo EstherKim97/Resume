@@ -1,15 +1,41 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    degreepath: M.S. Health Data Science # for type.education.
+    institution: University of California, San Francisco
+    department: Department of Epidemiology and Biostatistics
+    advisors: Marina Sirota, PhD # for type.education.
+    thesis: "CyTOF-based biomarker analysis for kidney transplant rejection" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2024 - Present
     notes: In Progress
+
+    degreepath: M.S. Pharmacy # for type.education.
+    institution: Yonsei University
+    department: Graduate Program of Industrial Pharmaceutical Science
+    advisors: Jin Hyun Jung, PhD # for type.education.
+    #thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2021 - 2023
+    notes: Graduated
+
+    degreepath: B.S. Life Sciences # for type.education.
+    institution: Sogang University
+    department: Department of Natural Sciences
+    advisors: H. Sean Lee, PhD # for type.education.
+    #thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2016 - 2020
+    notes: Graduated
     
   - type: job
+    title: Example Job # for type.employment.
+    institution: University University
+    department: Department
+    years: 2024 - Present
+
+    title: Example Job # for type.employment.
+    institution: University University
+    department: Department
+    years: 2024 - Present
+
     title: Example Job # for type.employment.
     institution: University University
     department: Department
