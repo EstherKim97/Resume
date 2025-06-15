@@ -5,7 +5,8 @@ main:
     institution: University of California, San Francisco
     department: Department of Epidemiology and Biostatistics
     advisors: Marina Sirota, PhD # for type.education.
-    thesis: "CyTOF-based biomarker analysis for kidney transplant rejection" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    thesis: CyTOF-based biomarker analysis for kidney transplant rejection # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    related courses: 
     years: 2024 - Present
     notes: In Progress
 
@@ -15,15 +16,17 @@ main:
     department: Graduate Program of Industrial Pharmaceutical Science
     advisors: Jin Hyun Jung, PhD # for type.education.
     #thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    related courses: 
     years: 2021 - 2023
     notes: Graduated
-    
+
   - type: education
     degreepath: B.S. Life Sciences # for type.education.
     institution: Sogang University
     department: Department of Natural Sciences
     advisors: H. Sean Lee, PhD # for type.education.
     #thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    related courses: 
     years: 2016 - 2020
     notes: Graduated
     
@@ -43,21 +46,29 @@ main:
     department: Department
     years: 2024 - Present
     
-  - type: service
-    title: A role
-    institution: University university
-    years: 2020 - 2024
-    notes: Chair
+  - type: conferences
+    title: Effort to Improve the Functions of AtMBF1c for salt stress tolerance
+    conference: Korean Society for Molecular and Cellular Biology (KSMCB) international conference
+    lab: Plant Gene Regulation Lab, Sogang university
+    advisors: Byeong-ha Lee, PhD
+    years: 2019
     
-  - type: service
-    title: Another role
-    institution:
-    years: 2021
+  - type: conferences
+    title: Understanding of Salt Stress Tolerance in Arabidopsis by Overexpression of P. alpinum MBF1 gene
+    conference: KSMCB international conference
+    lab: Plant Gene Regulation Lab, Sogang university
+    advisors: Byeong-ha Lee, PhD
+    years: 2018
 
-  - type: service
-    title: A Third Role
-    institution:
-    years: 2023
+  - type: awards
+    title: 2nd Prize, QBI Innovation Hackathon
+    institution: UCSF Quantitative Biosciences Institute
+    awarded for: MaxBindAI – Machine Learning-Based Prediction of Maximum Ligand Binding Affinity to Protein Sites
+    years: 2025
+    notes: Supported by a QBI minigrant; actively collaborating on continued development of the original hackathon project.
+
+
+
     
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions, and "service" for service positions.
